@@ -1,0 +1,12 @@
+{
+  "name": "onlygames",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^20.2.0"
+  }
+}
